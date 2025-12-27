@@ -4,7 +4,7 @@ A simple Python backend to track income, expenses, and balance using **SQLite** 
 
 ---
 
-## Features
+## Features:
 - Add new transactions (credit / debit)
 - Store data locally using SQLite
 - Fetch all transactions
@@ -13,12 +13,12 @@ A simple Python backend to track income, expenses, and balance using **SQLite** 
 
 ---
 
-## Tech Stack
+## Tech Stack: 
 - Python 3
 - SQLite3
 
 ---
-Setup:
+## Setup:
 1. Clone the repository:
    git clone https://github.com/akki-036/finance-tracker---backend.git
    cd finance-tracker---backend
@@ -36,8 +36,12 @@ Setup:
 
 5. Run the application:
    python app.py
-
-Project files:
-app.py handles the main application logic. db.py manages database operations. init_db.py creates required tables. requirements.txt lists dependencies. .gitignore ensures database and virtual environment files are not committed.
+---
+## Project files:
+1. app.py handles the main application logic. 
+2. db.py manages database operations. 
+3. init_db.py creates required tables. 
+4. requirements.txt lists dependencies. 
+5. .gitignore ensures database and virtual environment files are not committed.
 
 This project is intended for learning, small personal use, or as a starting point for a more complete backend. You can modify or extend it as needed.
