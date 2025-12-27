@@ -20,7 +20,7 @@ A simple Python backend to track income, expenses, and balance using **SQLite** 
 ---
 Setup:
 1. Clone the repository:
-   git clone https://github.com/akshithoudisetti-coder/finance-tracker---backend.git
+   git clone https://github.com/akki-036/finance-tracker---backend.git
    cd finance-tracker---backend
 
 2. (Optional) Create and activate a virtual environment:
